@@ -1,15 +1,4 @@
 {
-  "updated": "2026-11-25T11:53:52.159Z",
-  "jobs": [
-    {
-      "agent": "JARVIS",
-      "desk": "done",
-      "id": "tron-shirt-003",
-      "note": "Upload the final lightcycle design to Redbubble and publish the t-shirt",
-      "project": "Redbubble",
-      "status": "done",
-      "title": "Lightcycle shirt — upload to Redbubble",
-      "updated": "2026-11-25T11:53:00Z"
-    }
-  ]
+  "updated": "2026-11-25T11:54:46.621Z",
+  "jobs": []
 }
