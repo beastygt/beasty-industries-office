@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:21:28.777Z",
+  "updated": "2026-11-25T11:39:34.796Z",
   "jobs": [
     {
       "agent": "JARVIS",
@@ -9,17 +9,7 @@
       "project": "Redbubble",
       "status": "done",
       "title": "TRON shirt — transparent version for Redbubble",
-      "updated": "2026-11-25T11:21:00Z"
-    },
-    {
-      "agent": "JARVIS",
-      "desk": "done",
-      "id": "tron-research-001",
-      "note": "Reading about how light cycles work",
-      "project": "Redbubble",
-      "status": "done",
-      "title": "Research — how TRON light cycles work",
-      "updated": "2026-11-25T11:20:00Z"
+      "updated": "2026-11-25T11:21:00.000Z"
     },
     {
       "agent": "JARVIS",
@@ -29,7 +19,7 @@
       "project": "Redbubble",
       "status": "working",
       "title": "TRON shirt — upload to Redbubble",
-      "updated": "2026-11-25T11:21:00Z"
+      "updated": "2026-11-25T11:21:00.000Z"
     }
   ]
 }
