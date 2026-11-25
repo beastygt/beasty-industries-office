@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:21:51.710Z",
+  "updated": "2026-11-25T12:32:02.337Z",
   "jobs": [
     {
       "agent": "JARVIS",
@@ -14,13 +14,23 @@
     },
     {
       "agent": "JARVIS",
-      "desk": "upload",
-      "id": "tron-shirt-007",
-      "note": "Swap the artwork to the final version: small compact band, slightly thicker beam, trails fade away pixely at the end, no diagonal line. Keep title, description, tags, black default, upper-chest placement at 100%, t-shirts only.",
+      "desk": "done",
+      "id": "tron-shirt-006",
+      "note": "Trails longer and thinner, across the shirt; final version approved by Greg",
       "project": "Redbubble",
-      "status": "working",
+      "status": "done",
+      "title": "Lightcycle shirt — trails longer and thinner, across the shirt",
+      "updated": "2026-11-25T12:31:00Z"
+    },
+    {
+      "agent": "JARVIS",
+      "desk": "done",
+      "id": "tron-shirt-007",
+      "note": "Swap the artwork to the final version: small compact band, slightly thicker beam, trails fade away pixely at the end, no diagonal line. Black default, upper-chest placement at 100%, t-shirts only.",
+      "project": "Redbubble",
+      "status": "done",
       "title": "Lightcycle shirt — swap artwork to final version",
-      "updated": "2026-11-25T12:21:00Z",
+      "updated": "2026-11-25T12:31:00Z",
       "url": "https://www.redbubble.com/portfolio/images/186029659-lightcycle-t-shirt/edit"
     }
   ]
