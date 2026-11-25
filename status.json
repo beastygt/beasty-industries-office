@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:07:37.580Z",
+  "updated": "2026-11-25T12:12:38.245Z",
   "jobs": [
     {
       "agent": "JARVIS",
@@ -11,6 +11,16 @@
       "title": "Lightcycle shirt — placement: higher up, as big as possible",
       "updated": "2026-11-25T12:07:00Z",
       "url": "https://www.redbubble.com/portfolio/images/186029659-lightcycle-t-shirt/edit"
+    },
+    {
+      "agent": "JARVIS",
+      "desk": "art",
+      "id": "tron-shirt-006",
+      "note": "Make the trails longer and thinner, going all the way across the shirt",
+      "project": "Redbubble",
+      "status": "working",
+      "title": "Lightcycle shirt — trails longer and thinner, across the shirt",
+      "updated": "2026-11-25T12:12:00Z"
     }
   ]
 }
