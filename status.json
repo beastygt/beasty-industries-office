@@ -1,25 +1,25 @@
 {
-  "updated": "2026-11-25T11:46:16.015Z",
+  "updated": "2026-11-25T11:48:00.754Z",
   "jobs": [
     {
       "agent": "JARVIS",
-      "desk": "art",
+      "desk": "done",
       "id": "tron-shirt-004",
       "note": "Make the light trails longer so they go across the body",
       "project": "Redbubble",
-      "status": "working",
+      "status": "done",
       "title": "Lightcycle shirt — longer stripes across the body",
-      "updated": "2026-11-25T11:43:00.000Z"
+      "updated": "2026-11-25T11:47:00Z"
     },
     {
       "agent": "JARVIS",
       "desk": "upload",
       "id": "tron-shirt-003",
-      "note": "Upload the TRON design to Redbubble and publish the t-shirt",
+      "note": "Upload the final lightcycle design to Redbubble and publish the t-shirt",
       "project": "Redbubble",
       "status": "working",
-      "title": "TRON shirt — upload to Redbubble",
-      "updated": "2026-11-25T11:21:00.000Z"
+      "title": "Lightcycle shirt — upload to Redbubble",
+      "updated": "2026-11-25T11:47:00Z"
     }
   ]
 }
