@@ -1,15 +1,4 @@
 {
-  "updated": "2026-11-25T11:56:48.888Z",
-  "jobs": [
-    {
-      "agent": "JARVIS (verification)",
-      "desk": "art",
-      "id": "test-worker-click-verify",
-      "note": "Temporary job posted only to verify that tapping the Art worker jumps to this job.",
-      "project": "Office test",
-      "status": "working",
-      "title": "TEST — worker click check, removing shortly",
-      "updated": "2026-11-25T11:57:00.000Z"
-    }
-  ]
+  "updated": "2026-11-25T11:57:35.033Z",
+  "jobs": []
 }
