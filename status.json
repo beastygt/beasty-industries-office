@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:18:59.127Z",
+  "updated": "2026-11-25T11:19:50.363Z",
   "jobs": [
     {
       "agent": "JARVIS",
@@ -13,13 +13,13 @@
     },
     {
       "agent": "JARVIS",
-      "desk": "research",
+      "desk": "done",
       "id": "tron-research-001",
       "note": "Reading about how light cycles work",
       "project": "Redbubble",
-      "status": "working",
+      "status": "done",
       "title": "Research — how TRON light cycles work",
-      "updated": "2026-11-25T11:20:00.000Z"
+      "updated": "2026-11-25T11:20:00Z"
     }
   ]
 }
