@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-25T11:09:07.256Z",
+  "updated": "2026-11-25T11:12:32.733Z",
   "jobs": [
-    {
-      "agent": "JARVIS",
-      "desk": "done",
-      "id": "tron-shirt-001",
-      "note": "Light cycles design across the chest",
-      "project": "Redbubble",
-      "status": "done",
-      "title": "TRON light cycles t-shirt",
-      "updated": "2026-11-25T11:06:00Z"
-    },
     {
       "agent": "JARVIS",
       "desk": "art",
@@ -19,7 +9,7 @@
       "project": "Redbubble",
       "status": "working",
       "title": "TRON shirt — transparent version for Redbubble",
-      "updated": "2026-11-25T11:09:00Z"
+      "updated": "2026-11-25T11:09:00.000Z"
     }
   ]
 }
