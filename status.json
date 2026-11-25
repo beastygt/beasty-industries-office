@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-25T11:56:46.810Z",
+  "updated": "2026-11-25T11:56:48.888Z",
   "jobs": [
     {
-      "agent": "JARVIS",
-      "desk": "upload",
-      "id": "tron-shirt-005",
-      "note": "Move the design higher up on the chest and make it as big as possible, lightcycles across the chest",
-      "project": "Redbubble",
+      "agent": "JARVIS (verification)",
+      "desk": "art",
+      "id": "test-worker-click-verify",
+      "note": "Temporary job posted only to verify that tapping the Art worker jumps to this job.",
+      "project": "Office test",
       "status": "working",
-      "title": "Lightcycle shirt — placement: higher up, as big as possible",
-      "updated": "2026-11-25T11:56:00Z"
+      "title": "TEST — worker click check, removing shortly",
+      "updated": "2026-11-25T11:57:00.000Z"
     }
   ]
 }
