@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:39:34.796Z",
+  "updated": "2026-11-25T11:43:41.430Z",
   "jobs": [
     {
       "agent": "JARVIS",
@@ -9,7 +9,7 @@
       "project": "Redbubble",
       "status": "done",
       "title": "TRON shirt — transparent version for Redbubble",
-      "updated": "2026-11-25T11:21:00.000Z"
+      "updated": "2026-11-25T11:21:00Z"
     },
     {
       "agent": "JARVIS",
@@ -19,7 +19,17 @@
       "project": "Redbubble",
       "status": "working",
       "title": "TRON shirt — upload to Redbubble",
-      "updated": "2026-11-25T11:21:00.000Z"
+      "updated": "2026-11-25T11:21:00Z"
+    },
+    {
+      "agent": "JARVIS",
+      "desk": "art",
+      "id": "tron-shirt-004",
+      "note": "Make the light trails longer so they go across the body",
+      "project": "Redbubble",
+      "status": "working",
+      "title": "Lightcycle shirt — longer stripes across the body",
+      "updated": "2026-11-25T11:43:00Z"
     }
   ]
 }
