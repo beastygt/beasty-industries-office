@@ -1,6 +1,16 @@
 {
-  "updated": "2026-11-25T22:30:00.105Z",
+  "updated": "2026-11-25T22:30:03.564Z",
   "jobs": [
+    {
+      "agent": "JARVIS",
+      "desk": "done",
+      "id": "tron-shirt-006",
+      "note": "Trails longer and thinner, across the shirt; final version approved by Greg",
+      "project": "Redbubble",
+      "status": "done",
+      "title": "Lightcycle shirt — trails longer and thinner, across the shirt",
+      "updated": "2026-11-25T12:31:00.000Z"
+    },
     {
       "agent": "JARVIS",
       "desk": "done",
@@ -10,17 +20,6 @@
       "status": "done",
       "title": "Lightcycle shirt — swap artwork to final version",
       "updated": "2026-11-25T12:31:00.000Z",
-      "url": "https://www.redbubble.com/portfolio/images/186029659-lightcycle-t-shirt/edit"
-    },
-    {
-      "agent": "JARVIS",
-      "desk": "done",
-      "id": "tron-shirt-005",
-      "note": "Move the design higher up on the chest and make it as big as possible, lightcycles across the chest",
-      "project": "Redbubble",
-      "status": "done",
-      "title": "Lightcycle shirt — placement: higher up, as big as possible",
-      "updated": "2026-11-25T12:19:00.000Z",
       "url": "https://www.redbubble.com/portfolio/images/186029659-lightcycle-t-shirt/edit"
     }
   ]
