@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:06:33.016Z",
+  "updated": "2026-11-25T11:09:07.256Z",
   "jobs": [
     {
       "agent": "JARVIS",
@@ -10,6 +10,16 @@
       "status": "done",
       "title": "TRON light cycles t-shirt",
       "updated": "2026-11-25T11:06:00Z"
+    },
+    {
+      "agent": "JARVIS",
+      "desk": "art",
+      "id": "tron-shirt-002",
+      "note": "Standalone artwork for upload, no shirt",
+      "project": "Redbubble",
+      "status": "working",
+      "title": "TRON shirt — transparent version for Redbubble",
+      "updated": "2026-11-25T11:09:00Z"
     }
   ]
 }
