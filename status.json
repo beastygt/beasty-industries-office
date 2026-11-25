@@ -1,4 +1,15 @@
 {
-  "updated": "2026-11-25T09:48:54.274Z",
-  "jobs": []
+  "updated": "2026-11-25T10:57:58.177Z",
+  "jobs": [
+    {
+      "agent": "JARVIS",
+      "desk": "script",
+      "id": "test-office-001",
+      "note": "Testing the office — please ignore",
+      "project": "Test",
+      "status": "working",
+      "title": "Test job — office check",
+      "updated": "2026-11-25T10:58:00Z"
+    }
+  ]
 }
